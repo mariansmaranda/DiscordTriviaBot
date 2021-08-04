@@ -1,0 +1,20 @@
+[
+    {
+        "role_name": "Guest",
+        "role_id": 859780359629963265,
+        "emoji": "\ud83d\udc24",
+        "message_id": 859786736875995166
+    },
+    {
+        "role_name": "Trivia",
+        "role_id": 850383778894708766,
+        "emoji": "\u2753",
+        "message_id": 859786759117996042
+    },
+    {
+        "role_name": "User",
+        "role_id": 860477222615515146,
+        "emoji": "\ud83d\udc64",
+        "message_id": 860478689514356806
+    }
+]
